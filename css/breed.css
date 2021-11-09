@@ -31,6 +31,7 @@ header{
 }
 .header_right{
     display: flex;
+paddind-top:120px;
    align-items:end;
 }
 .header_word{
