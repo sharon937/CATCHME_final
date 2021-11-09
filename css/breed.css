@@ -31,7 +31,7 @@ header{
 }
 .header_right{
     display: flex;
-    align:flex-end;
+   align-items:end;
 }
 .header_word{
     display: flex;
